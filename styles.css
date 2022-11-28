@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(255, 255, 204);
+    text-align: center;
+}
+
+li {
+   list-style: none;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
